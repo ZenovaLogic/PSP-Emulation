@@ -29,3 +29,5 @@ There are separate folders in this directory to place ROMs for each console (Gam
 Copy the 'gpSP (GBA)' folder to /PSP/GAME on the memory stick.
 
 ROMs go into /GBA/ROM folder (ROMs can be found in 'Emu ROMs/GBA ROMS')
+
+(GBA ROMs currently missing due to space concerns)
