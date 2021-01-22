@@ -23,11 +23,3 @@ Copy whatever SNES ROMs you want into the 'Roms' folder (this is in the 's9xTYLm
 Copy the 'EmuMaster V3.00 (GB, GBC, SMS, SGG)' folder into /PSP/GAME on the memory stick.
 
 There are separate folders in this directory to place ROMs for each console (GameBoy/GameBoy Colour in 'Roms GBC', Sega Master system in 'Roms SMS', Sega Game Gear in 'Roms SGG'). Just copy the relevant ROMs into the relevant folders. You'll be able to navigate these folders to select the ROM you want to play in the emulator app on your PSP.
-
-### gpSP (GameBoy Advance (SP) Emulator)
-
-Copy the 'gpSP (GBA)' folder to /PSP/GAME on the memory stick.
-
-ROMs go into /GBA/ROM folder (ROMs can be found in 'Emu ROMs/GBA ROMS')
-
-(GBA ROMs currently missing due to space concerns)
